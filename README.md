@@ -16,7 +16,7 @@ or use
 ./scout.py -h
 ```
 
-- example:
+- example: get the vendor name using a MAC address
 
 ```
 ./scout.py -m 00:01:4A:44:8C:7E
