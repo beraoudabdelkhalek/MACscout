@@ -8,7 +8,6 @@ a Python tool for performing many lookup types related to MAC addresses, without
  use the following command to get the list of commands:
  '''
  python scout.py -h
- '''
  or use
  '''
  ./scout.py -h
@@ -16,5 +15,4 @@ a Python tool for performing many lookup types related to MAC addresses, without
   '''
   ./scout.py -m 00:01:4A:44:8C:7E
   Sony Corporation
-  '''
   
