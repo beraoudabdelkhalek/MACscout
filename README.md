@@ -6,16 +6,21 @@ a Python tool for performing many lookup types related to MAC addresses, without
 - generating random MAC addresses or valid random MAC addresses by concatenating an existing OUI with a random individual address
 #Usage
 use the following command to get the list of commands:
-'''
- python scout.py -h
-```  /
-or use /
+```
+python scout.py -h
+```
+
+or use
+
 ```
 ./scout.py -h
-```  /
-- example: /
+```
+
+- example:
+
 ```
 ./scout.py -m 00:01:4A:44:8C:7E
 Sony Corporation
 ```
+
   
