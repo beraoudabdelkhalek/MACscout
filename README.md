@@ -12,7 +12,6 @@ a Python tool for performing many lookup types related to MAC addresses, without
   ```
  ./scout.py -h
 - example:
-  ```
-  ./scout.py -m 00:01:4A:44:8C:7E
-  Sony Corporation
+  `./scout.py -m 00:01:4A:44:8C:7E
+  Sony Corporation`
   
