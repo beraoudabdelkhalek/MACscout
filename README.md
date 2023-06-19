@@ -1,5 +1,5 @@
 # MACscout
-a Python tool for performing many lookup types related to MAC addresses, without an internet connection.
+A Python tool for performing many lookup types related to MAC addresses, without an internet connection.
 # Features
 - finding the vendor name using a MAC address or using a MAC address block.
 - finding the OUI of a vendor.
